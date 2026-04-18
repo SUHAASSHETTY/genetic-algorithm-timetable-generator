@@ -4,9 +4,17 @@ tenv
 .env
 
 
-
 __pycache__/
 .ipynb_checkpoints/
 .env
 .gitattributes
 .venv
+
+
+
+# folders 
+timetable-db/
+frontend/
+src/
+app.py
+documentation/
