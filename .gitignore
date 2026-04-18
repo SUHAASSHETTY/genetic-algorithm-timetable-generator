@@ -11,9 +11,3 @@ __pycache__/
 .venv
 
 
-
-# folders 
-timetable-db/
-src/
-app.py
-documentation/
